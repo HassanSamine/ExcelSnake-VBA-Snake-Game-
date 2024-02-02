@@ -1,0 +1,44 @@
+-----------------------------------------
+          Snake Game User Manual
+-----------------------------------------
+
+Welcome to the Snake Game in Excel VBA! This simple game allows you to control a snake, eat apples, and grow longer. Read through the instructions below to get started.
+
+1. **Objective:**
+   The goal of the game is to control the snake, represented by a red cell, to eat yellow apples that randomly appear on the grid. Each apple eaten increases your score.
+
+2. **Controls:**
+   - Use the arrow keys (Up, Down, Left, Right) to control the direction of the snake.
+   - Press the "Start Game" button to begin playing.
+
+3. **Game Elements:**
+   - Snake: The snake is initially positioned vertically and consists of a red head and green body segments.
+   - Apples: Yellow cells represent apples that the snake can eat to grow longer.
+
+4. **Gameplay:**
+   - The snake moves in the direction specified by the arrow keys.
+   - When the snake eats an apple, it grows longer, and a new apple appears at a random location.
+   - If the snake collides with the game boundaries or itself, the game ends.
+
+5. **Scoring:**
+   - Your score is determined by the number of apples eaten.
+   - Each apple increases your score by one point.
+
+6. **Getting Started:**
+   - Open the Excel file containing the Snake Game.
+   - Ensure macros are enabled.
+   - Click on the "Start Game" button to initiate the game.
+
+7. **Game Over:**
+   - The game ends if the snake collides with the game boundaries or itself.
+   - A message box will appear, indicating that the game is over.
+
+8. **Restarting the Game:**
+   - To play again, close the message box and click on the "Start Game" button.
+
+9. **Have Fun:**
+   - Enjoy playing the Snake Game and challenge yourself to achieve the highest score!
+
+Note: This game was designed for Excel on Windows. Compatibility with Excel on macOS may vary.
+
+-----------------------------------------

@@ -1,0 +1,17 @@
+Testing:
+Rigorously test the game on various machines and Excel versions to ensure widespread compatibility.
+
+Results:
+Game doesn't run on Mac OS 
+
+
+Future Development:
+Implement a scoring system that tracks and displays the player's score during gameplay.
+Introduce multiple levels or difficulty settings to make the game more challenging as the player progresses.
+Sound Effects
+Pause and Resume Functionality
+Multiplayer Mode
+Error Handling
+aking the game compatible with Excel on macOS by addressing any platform-specific code.
+
+
